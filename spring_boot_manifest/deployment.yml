@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: surabhibs/spring-cicd:replaceImageTag
+        image: surabhibs/spring-cicd:33
         ports:
         - containerPort: 3000
